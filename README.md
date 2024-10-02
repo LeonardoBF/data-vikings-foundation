@@ -1,5 +1,6 @@
 
-                                       ![blendBoard (1)](https://github.com/user-attachments/assets/364d0c35-fbea-42f2-8d55-1f6112ce96b9)
+![image](https://github.com/user-attachments/assets/5d3b4e1e-f751-4e11-bd75-34a8f8a74aad)
+
 
 
 # 🚀 Data Analysis Foundation
