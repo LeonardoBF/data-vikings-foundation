@@ -104,24 +104,12 @@ Participe da discussão! Sinta-se à vontade para abrir uma issue para discutir 
 ## 📫 Contato
 
 Para mais informações, entre em contato com:
-- **Nome**: Diego Alberone
-- **Email**: diego.borges@zup.com.br
-- **GitHub**: [diegoborgeszup](https://github.com/diegoborgeszup)
+- **Nome**: Diego Alberone **Email**: diego.borges@zup.com.br **GitHub**: [diegoborgeszup](https://github.com/diegoborgeszup)
 
-- **Nome**: Leonardo Borges
-- **Email**: 
-- **GitHub**: [seuusuario](https://github.com/user1)
+- **Nome**: Leonardo Borges **Email**: user@zup.com.br **GitHub**: [seuusuario](https://github.com/user1)
 
-- **Nome**: Renato Lotto
-- **Email**: user@zup.com.br
-- **GitHub**: [seuusuario](https://github.com/user1)
+- **Nome**: Renato Lotto **Email**: user@zup.com.br **GitHub**: [seuusuario](https://github.com/user1)
 
-- **Nome**: Yago Luciano
-- **Email**: user@zup.com.br
-- **GitHub**: [seuusuario](https://github.com/user1)
+- **Nome**: Yago Luciano **Email**: user@zup.com.br **GitHub**: [seuusuario](https://github.com/user1)
 
 Agradecemos seu interesse no **Data Analysis Foundation** e esperamos que este projeto ajude você e sua equipe a otimizar suas análises de dados!
-
-
-
-
