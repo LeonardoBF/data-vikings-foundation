@@ -63,8 +63,8 @@ A árvore de decisão é dividida em várias seções, cada uma representando um
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seuusuario/data-analysis-foundation.git
-   cd data-analysis-foundation
+   git clone https://github.com/diegoborgeszup/data-vikings-foundation.git
+   cd data-vikings-foundation
 
 2. **Execute o Código no Google Colab**:
    - Abra o Google Colab e faça upload do arquivo `.ipynb` presente no repositório.
@@ -174,13 +174,13 @@ Participe da discussão! Sinta-se à vontade para abrir uma issue para discutir 
 ## 📫 Contato
 
 Para mais informações, entre em contato com:
-- **Nome**: Diego Alberone **Email**: diego.borges@zup.com.br **GitHub**: [diegoborgeszup](https://github.com/diegoborgeszup)
+- **Nome**: Diego Alberone / diego.borges@zup.com.br / [diegoborgeszup](https://github.com/diegoborgeszup)
 
-- **Nome**: Leonardo Borges **Email**: user@zup.com.br **GitHub**: [seuusuario](https://github.com/user1)
+- **Nome**: Leonardo Borges / user@zup.com.br / [seuusuario](https://github.com/user1)
 
-- **Nome**: Renato Lotto **Email**: user@zup.com.br **GitHub**: [seuusuario](https://github.com/user1)
+- **Nome**: Renato Lotto / user@zup.com.br / [seuusuario](https://github.com/user1)
 
-- **Nome**: Yago Luciano **Email**: user@zup.com.br **GitHub**: [seuusuario](https://github.com/user1)
-- 
+- **Nome**: Yago Luciano / user@zup.com.br / [seuusuario](https://github.com/user1)
+  
 
 Agradecemos seu interesse no **Data Viking's Foundation** e esperamos que este programa ajude você e sua equipe a otimizar suas análises de dados!
