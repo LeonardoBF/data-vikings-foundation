@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/5470522a-76fd-455f-afdc-8e32c1b38f7a)
+
+
 # 🚀 Data Analysis Foundation
 
 ## 🌟 Descrição
