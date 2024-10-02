@@ -69,70 +69,84 @@ A árvore de decisão é dividida em várias seções, cada uma representando um
    - A árvore de decisão será exibida após a execução.
    - O arquivo PNG gerado será baixado automaticamente.
 
+
 ### Exemplos de Aplicação
-
-#### Cenário 1: Prever Vendas
-**Problema**: Sua equipe precisa prever as vendas para o próximo trimestre.
-
-- **Recomendação**: Utilize **Modelos de Regressão** ou **Séries Temporais**.
-- **Aplicação**: Aplique um modelo de regressão linear com dados históricos para prever resultados futuros.
-
-#### Cenário 2: Classificar Feedback de Clientes
-**Problema**: Analisar feedback de clientes para melhorar produtos.
-
-- **Recomendação**: Empregue **Árvores de Decisão** ou **Random Forests**.
-- **Aplicação**: Colete feedback textual e aplique um modelo de classificação para identificar sentimentos.
-
-#### Cenário 3: Prever Churn de Clientes
-**Problema**: Sua empresa deseja entender a taxa de churn de seus clientes.
-
-- **Recomendação**: Utilize **Modelos de Classificação**.
-- **Aplicação**: Aplique um modelo de Regressão Logística para prever a probabilidade de um cliente cancelar o serviço.
-
-#### Cenário 4: Detecção de Fraude em Transações
-**Problema**: Sua equipe precisa identificar transações fraudulentas em tempo real.
-
-- **Recomendação**: Utilize **Detecção de Anomalias** (ex: Isolation Forest).
-- **Aplicação**: Analise transações financeiras em tempo real para identificar padrões que se desviem do comportamento normal.
-
-#### Cenário 5: Análise de Sentimentos em Redes Sociais
-**Problema**: Analisar a percepção dos consumidores em relação a um novo produto nas redes sociais.
-
-- **Recomendação**: Utilize **Técnicas de NLP** (ex: TF-IDF, BERT).
-- **Aplicação**: Extraia e analise dados textuais de comentários e postagens para determinar a opinião geral sobre o produto.
-
-#### Cenário 6: Estimativa de Tempo de Resposta em Serviços
-**Problema**: Sua equipe quer melhorar o tempo de resposta de um serviço ao cliente.
-
-- **Recomendação**: Utilize **Modelos de Séries Temporais**.
-- **Aplicação**: Analise dados históricos de atendimento ao cliente para prever e otimizar tempos de resposta futuros.
-
-#### Cenário 7: Segmentação de Clientes para Marketing
-**Problema**: Deseja segmentar clientes para campanhas de marketing mais eficazes.
-
-- **Recomendação**: Utilize **Clustering** (ex: K-means).
-- **Aplicação**: Agrupe clientes com base em características demográficas e comportamentais para direcionar campanhas específicas.
-
-#### Cenário 8: Análise de Eficácia de Campanhas de Marketing
-**Problema**: Avaliar o impacto de diferentes campanhas de marketing sobre as vendas.
-
-- **Recomendação**: Utilize **Análise de Variância (ANOVA)**.
-- **Aplicação**: Compare as vendas entre grupos que participaram de diferentes campanhas para determinar qual foi a mais eficaz.
-
-#### Cenário 9: Modelagem de Preços
-**Problema**: Precificar produtos de forma a maximizar a receita.
-
-- **Recomendação**: Utilize **Modelagem de Elasticidade de Preço**.
-- **Aplicação**: Analise como as variações de preço afetam a demanda e ajuste os preços para maximizar os lucros.
-
-#### Cenário 10: Análise de Tendências de Vendas
-**Problema**: Identificar tendências de vendas ao longo do tempo.
-
-- **Recomendação**: Utilize **Análise de Tendências**.
-- **Aplicação**: Examine dados históricos de vendas para identificar padrões e tendências sazonais, ajudando na previsão de vendas futuras.
 
 ---
 
+#### Cenário 1: Prever Vendas
+- **Problema**: Sua equipe precisa prever as vendas para o próximo trimestre.
+- **Recomendação**: Utilize **Modelos de Regressão** ou **Séries Temporais**.
+- **Aplicação**: Aplique um modelo de regressão linear com dados históricos de vendas, considerando variáveis como sazonalidade, promoções e eventos especiais. Utilize métricas como RMSE (Root Mean Square Error) para validar o modelo.
+
+---
+
+#### Cenário 2: Classificar Feedback de Clientes
+- **Problema**: Analisar feedback de clientes para melhorar produtos.
+- **Recomendação**: Empregue **Árvores de Decisão** ou **Random Forests**.
+- **Aplicação**: Colete feedback textual através de formulários e redes sociais. Aplique técnicas de pré-processamento de texto (como tokenização e remoção de stop words) e um modelo de classificação para identificar sentimentos (positivo, negativo, neutro) e temas recorrentes.
+
+---
+
+#### Cenário 3: Prever Churn de Clientes
+- **Problema**: Sua empresa deseja entender a taxa de churn de seus clientes.
+- **Recomendação**: Utilize **Modelos de Classificação**.
+- **Aplicação**: Aplique um modelo de Regressão Logística, usando dados como histórico de compras, interações com o atendimento e uso do produto. Identifique variáveis preditoras e utilize validação cruzada para otimizar o modelo.
+
+---
+
+#### Cenário 4: Detecção de Fraude em Transações
+- **Problema**: Sua equipe precisa identificar transações fraudulentas em tempo real.
+- **Recomendação**: Utilize **Detecção de Anomalias** (ex: Isolation Forest).
+- **Aplicação**: Analise transações financeiras em tempo real, identificando padrões normais de comportamento. Use métricas como a taxa de falsos positivos e a precisão do modelo para ajustar a sensibilidade da detecção.
+
+---
+
+#### Cenário 5: Análise de Sentimentos em Redes Sociais
+- **Problema**: Analisar a percepção dos consumidores em relação a um novo produto nas redes sociais.
+- **Recomendação**: Utilize **Técnicas de NLP** (ex: TF-IDF, BERT).
+- **Aplicação**: Extraia dados textuais de comentários e postagens em redes sociais. Aplique técnicas de análise de sentimentos para classificar opiniões e identifique temas predominantes usando métodos de clustering para agrupar sentimentos semelhantes.
+
+---
+
+#### Cenário 6: Estimativa de Tempo de Resposta em Serviços
+- **Problema**: Sua equipe quer melhorar o tempo de resposta de um serviço ao cliente.
+- **Recomendação**: Utilize **Modelos de Séries Temporais**.
+- **Aplicação**: Analise dados históricos de atendimento ao cliente, levando em conta variáveis como horários de pico e tipos de solicitações. Utilize modelos como ARIMA ou Holt-Winters para prever e otimizar os tempos de resposta.
+
+---
+
+#### Cenário 7: Segmentação de Clientes para Marketing
+- **Problema**: Deseja segmentar clientes para campanhas de marketing mais eficazes.
+- **Recomendação**: Utilize **Clustering** (ex: K-means).
+- **Aplicação**: Agrupe clientes com base em características demográficas, comportamentais e transacionais. Utilize a técnica do "cotovelo" para determinar o número ideal de clusters e analise cada grupo para direcionar campanhas específicas.
+
+---
+
+#### Cenário 8: Análise de Eficácia de Campanhas de Marketing
+- **Problema**: Avaliar o impacto de diferentes campanhas de marketing sobre as vendas.
+- **Recomendação**: Utilize **Análise de Variância (ANOVA)**.
+- **Aplicação**: Compare as vendas entre grupos que participaram de diferentes campanhas. Utilize testes estatísticos para validar se as diferenças observadas nas vendas são significativas e identifique quais campanhas foram mais eficazes.
+
+---
+
+#### Cenário 9: Modelagem de Preços
+- **Problema**: Precificar produtos de forma a maximizar a receita.
+- **Recomendação**: Utilize **Modelagem de Elasticidade de Preço**.
+- **Aplicação**: Analise como as variações de preço afetam a demanda, utilizando dados históricos de vendas e preços. Realize experimentos A/B para testar diferentes preços e determine o ponto de preço ideal para maximizar a receita.
+
+---
+
+#### Cenário 10: Análise de Tendências de Vendas
+- **Problema**: Identificar tendências de vendas ao longo do tempo.
+- **Recomendação**: Utilize **Análise de Tendências**.
+- **Aplicação**: Examine dados históricos de vendas para identificar padrões e tendências sazonais. Utilize gráficos de séries temporais e decomposição para visualizar tendências e prever vendas futuras com base em padrões identificados.
+
+
+
+
+---
+---
 
 ## 🤝 Contribuições
 
