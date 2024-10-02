@@ -83,6 +83,57 @@ A árvore de decisão é dividida em várias seções, cada uma representando um
 - **Recomendação**: Empregue **Árvores de Decisão** ou **Random Forests**.
 - **Aplicação**: Colete feedback textual e aplique um modelo de classificação para identificar sentimentos.
 
+#### Cenário 3: Prever Churn de Clientes
+**Problema**: Sua empresa deseja entender a taxa de churn de seus clientes.
+
+- **Recomendação**: Utilize **Modelos de Classificação**.
+- **Aplicação**: Aplique um modelo de Regressão Logística para prever a probabilidade de um cliente cancelar o serviço.
+
+#### Cenário 4: Detecção de Fraude em Transações
+**Problema**: Sua equipe precisa identificar transações fraudulentas em tempo real.
+
+- **Recomendação**: Utilize **Detecção de Anomalias** (ex: Isolation Forest).
+- **Aplicação**: Analise transações financeiras em tempo real para identificar padrões que se desviem do comportamento normal.
+
+#### Cenário 5: Análise de Sentimentos em Redes Sociais
+**Problema**: Analisar a percepção dos consumidores em relação a um novo produto nas redes sociais.
+
+- **Recomendação**: Utilize **Técnicas de NLP** (ex: TF-IDF, BERT).
+- **Aplicação**: Extraia e analise dados textuais de comentários e postagens para determinar a opinião geral sobre o produto.
+
+#### Cenário 6: Estimativa de Tempo de Resposta em Serviços
+**Problema**: Sua equipe quer melhorar o tempo de resposta de um serviço ao cliente.
+
+- **Recomendação**: Utilize **Modelos de Séries Temporais**.
+- **Aplicação**: Analise dados históricos de atendimento ao cliente para prever e otimizar tempos de resposta futuros.
+
+#### Cenário 7: Segmentação de Clientes para Marketing
+**Problema**: Deseja segmentar clientes para campanhas de marketing mais eficazes.
+
+- **Recomendação**: Utilize **Clustering** (ex: K-means).
+- **Aplicação**: Agrupe clientes com base em características demográficas e comportamentais para direcionar campanhas específicas.
+
+#### Cenário 8: Análise de Eficácia de Campanhas de Marketing
+**Problema**: Avaliar o impacto de diferentes campanhas de marketing sobre as vendas.
+
+- **Recomendação**: Utilize **Análise de Variância (ANOVA)**.
+- **Aplicação**: Compare as vendas entre grupos que participaram de diferentes campanhas para determinar qual foi a mais eficaz.
+
+#### Cenário 9: Modelagem de Preços
+**Problema**: Precificar produtos de forma a maximizar a receita.
+
+- **Recomendação**: Utilize **Modelagem de Elasticidade de Preço**.
+- **Aplicação**: Analise como as variações de preço afetam a demanda e ajuste os preços para maximizar os lucros.
+
+#### Cenário 10: Análise de Tendências de Vendas
+**Problema**: Identificar tendências de vendas ao longo do tempo.
+
+- **Recomendação**: Utilize **Análise de Tendências**.
+- **Aplicação**: Examine dados históricos de vendas para identificar padrões e tendências sazonais, ajudando na previsão de vendas futuras.
+
+---
+
+
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Se você tem sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou um pull request. Para contribuir:
