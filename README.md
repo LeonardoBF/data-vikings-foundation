@@ -2,13 +2,13 @@
 
 ## Descrição
 
-O **Data Analysis Foundation** é uma ferramenta projetada para auxiliar equipes de dados na seleção da melhor abordagem para resolver problemas de análise. Este projeto fornece uma árvore de decisão visual que guia os usuários através de diferentes metodologias, considerando a natureza específica do problema enfrentado. 
+O **Data Analysis Foundation** é um programa projetado para auxiliar equipes de dados na seleção da melhor abordagem para resolver problemas de análise. Este projeto fornece uma árvore de decisão visual que guia os usuários através de diferentes metodologias, considerando a natureza específica do problema enfrentado. 
 
-Nosso objetivo é estabelecer uma base sólida para as práticas de análise de dados, promovendo decisões informadas e eficientes. A ferramenta é ideal tanto para iniciantes quanto para profissionais experientes que buscam otimizar suas abordagens analíticas.
+Nosso objetivo é estabelecer uma base sólida para as práticas de análise de dados, promovendo decisões informadas e eficientes. O programa foi criado tanto para iniciantes quanto para profissionais experientes que buscam otimizar suas abordagens analíticas.
 
 ## Motivação
 
-Na era dos dados, as equipes enfrentam uma variedade crescente de desafios analíticos. Com tantas técnicas e modelos disponíveis, pode ser difícil determinar a melhor abordagem para um problema específico. O **Data Analysis Foundation** busca simplificar esse processo, oferecendo um recurso visual que serve como um guia confiável na escolha de metodologias.
+Na era dos dados, as equipes enfrentam uma variedade crescente de desafios analíticos. Com tantas técnicas e modelos disponíveis, pode ser difícil determinar a melhor abordagem para um problema específico e de fato conseguir eliminar vieses e ter uma analise assertiva. O **Data Analysis Foundation** busca simplificar esse processo, oferecendo guias confiáveis na escolha de metodologias e trabalhando em casos práticos com o intuito de provar valor e resultado atraves do uso eficiente dos dados.
 
 ## Funcionalidades
 
