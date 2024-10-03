@@ -184,4 +184,5 @@ Para mais informações, entre em contato com:
 - Yago Luciano / user@zup.com.br / [seuusuario](https://github.com/user1)
   
 
-Agradecemos seu interesse no **Data Viking's Foundation** e esperamos que este programa ajude você e sua equipe a otimizar suas análises de dados! ![image](https://github.com/user-attachments/assets/ee2dddc9-abf7-4217-93a2-2b5f0a1e03c4)
+Agradecemos seu interesse no **Data Viking's Foundation** e esperamos que este programa ajude você e sua equipe a otimizar suas análises de dados! 
+                                                                                          ![image](https://github.com/user-attachments/assets/ee2dddc9-abf7-4217-93a2-2b5f0a1e03c4)
