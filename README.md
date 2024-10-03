@@ -174,7 +174,7 @@ Participe da discussão! Sinta-se à vontade para abrir uma issue para discutir 
 ## 📫 Contato
 
 Para mais informações, entre em contato com:
-- ![image](https://github.com/user-attachments/assets/a0f620c8-c21e-4a41-b50c-8872c0273f73) Diego Alberone / diego.borges@zup.com.br / [diegoborgeszup](https://github.com/diegoborgeszup)
+- ![image](https://github.com/user-attachments/assets/f8f96edb-a1a3-4d3d-8f7c-1164b708c710) Diego Alberone / diego.borges@zup.com.br / [diegoborgeszup](https://github.com/diegoborgeszup)
 
 - ![image](https://github.com/user-attachments/assets/654fca8a-d2d2-4dc9-b182-b69a1739fcf0) Leonardo Borges / user@zup.com.br / [seuusuario](https://github.com/user1)
 
