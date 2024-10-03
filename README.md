@@ -185,4 +185,4 @@ Agradecemos seu interesse no **Data Viking's Foundation** e esperamos que este p
 
 ---
 
-                                             ![image](https://github.com/user-attachments/assets/ee2dddc9-abf7-4217-93a2-2b5f0a1e03c4)
+                                    
