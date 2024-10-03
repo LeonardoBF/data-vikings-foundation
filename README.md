@@ -148,9 +148,6 @@ A árvore de decisão é dividida em várias seções, cada uma representando um
 - **Aplicação**: Examine dados históricos de vendas para identificar padrões e tendências sazonais. Utilize gráficos de séries temporais e decomposição para visualizar tendências e prever vendas futuras com base em padrões identificados.
 
 
-
-
----
 ---
 
 ## 🤝 Contribuições
@@ -186,4 +183,6 @@ Para mais informações, entre em contato com:
 
 Agradecemos seu interesse no **Data Viking's Foundation** e esperamos que este programa ajude você e sua equipe a otimizar suas análises de dados! 
 
-                                                                                          ![image](https://github.com/user-attachments/assets/ee2dddc9-abf7-4217-93a2-2b5f0a1e03c4)
+---
+
+                                             ![image](https://github.com/user-attachments/assets/ee2dddc9-abf7-4217-93a2-2b5f0a1e03c4)
