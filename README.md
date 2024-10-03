@@ -174,13 +174,14 @@ Participe da discussão! Sinta-se à vontade para abrir uma issue para discutir 
 ## 📫 Contato
 
 Para mais informações, entre em contato com:
-- ![image](https://github.com/user-attachments/assets/f8f96edb-a1a3-4d3d-8f7c-1164b708c710) Diego Alberone / diego.borges@zup.com.br / [diegoborgeszup](https://github.com/diegoborgeszup)
 
-- ![image](https://github.com/user-attachments/assets/654fca8a-d2d2-4dc9-b182-b69a1739fcf0) Leonardo Borges / user@zup.com.br / [seuusuario](https://github.com/user1)
+- Diego Alberone / diego.borges@zup.com.br / [diegoborgeszup](https://github.com/diegoborgeszup)
 
--![image](https://github.com/user-attachments/assets/f5e5a873-b94e-4e6e-acd8-ebbb57c2622a) Renato Lotto / user@zup.com.br / [seuusuario](https://github.com/user1)
+- Leonardo Borges / user@zup.com.br / [seuusuario](https://github.com/user1)
 
--![image](https://github.com/user-attachments/assets/ee2dddc9-abf7-4217-93a2-2b5f0a1e03c4) Yago Luciano / user@zup.com.br / [seuusuario](https://github.com/user1)
+- Renato Lotto / user@zup.com.br / [seuusuario](https://github.com/user1)
+
+- Yago Luciano / user@zup.com.br / [seuusuario](https://github.com/user1)
   
 
-Agradecemos seu interesse no **Data Viking's Foundation** e esperamos que este programa ajude você e sua equipe a otimizar suas análises de dados!
+Agradecemos seu interesse no **Data Viking's Foundation** e esperamos que este programa ajude você e sua equipe a otimizar suas análises de dados! ![image](https://github.com/user-attachments/assets/ee2dddc9-abf7-4217-93a2-2b5f0a1e03c4)
